@@ -1,0 +1,119 @@
+.img1 {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    width: 100vw;
+    background-color: lightgray;
+
+}
+
+
+
+.img2 {
+    width:30px ;
+    background-color: transparent;
+    
+}
+button {
+    border-radius: 50px;
+    width: 150px;
+    height: 45px;
+}
+.but2 {
+    display: flex;
+    justify-content:space-between;
+    gap: 40px;
+   
+}
+
+.opt1 {
+
+ width: 30vw;  
+ height: 40px; 
+ border: 2px solid green;
+}
+
+.city {
+    width: 100vw;
+    display: flex;
+    justify-content: space-around;
+   
+}
+
+.abc {
+    width: 100vw;
+    display: flex;
+    justify-content: space-around;
+    border: 2px solid green;
+}
+.fname {
+    
+    width: 30vw;
+    height: 30px;
+}
+
+.addressbar {
+    width: 81vw;
+    display: flex;
+    justify-content: space-around;
+    margin: auto;
+    height: 40px;
+}
+
+.navBtns {
+    display: flex;
+    justify-content: center;
+    
+
+
+
+}
+
+.navBtns button{
+    padding: 8px;
+    background-color: transparent;
+    border: 1px solid lightgrey;
+}
+
+
+.addressbar{
+    margin-left: auto;
+    margin-right: auto;
+    color: black;
+    border-radius: 10px;
+
+   
+}
+
+.ph {
+    margin-left: 140px;
+    color: blue;
+    
+  
+}
+.pic {
+      border: 1px solid black;
+      height: 5vw;
+
+
+}
+
+.rules {
+    margin-left: 140px;
+    margin-right: auto;
+    justify-content: space-evenly;
+}
+
+.submit {
+    width: 75vw;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    color: black;
+    background-color: blue;
+    border-radius: 10px;
+    
+}
+
+
